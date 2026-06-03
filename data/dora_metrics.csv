@@ -1,0 +1,12 @@
+repo,deployment_frequency,deploy_freq_band,lead_time_hours,lead_time_band,mttr_hours,mttr_band,change_failure_rate,cfr_band,health_score
+RenoX23/cloud-native-data-engineering,,Insufficient Data,,Insufficient Data,,Insufficient Data,,Insufficient Data,0.0
+RenoX23/ecommerce-sales-analytics,,Insufficient Data,,Insufficient Data,,Insufficient Data,,Insufficient Data,0.0
+RenoX23/gapiq,,Insufficient Data,,Insufficient Data,,Insufficient Data,,Insufficient Data,0.0
+RenoX23/github-engineering-analytics-pipeline,,Insufficient Data,,Insufficient Data,,Insufficient Data,,Insufficient Data,0.0
+RenoX23/gitops-monitoring-project,,Insufficient Data,,Insufficient Data,,Insufficient Data,,Insufficient Data,0.0
+RenoX23/job-market-intelligence,,Insufficient Data,,Insufficient Data,,Insufficient Data,,Insufficient Data,0.0
+apache/airflow,0.36,Medium,22.35,Elite,474.38,Low,0.0071,Elite,68.8
+argoproj/argo-cd,1.72,High,9.06,Elite,330.45,Low,0.0,Elite,75.0
+dbt-labs/dbt-core,0.99,Medium,5.1,Elite,3.51,High,0.0333,Elite,81.2
+grafana/grafana,2.02,High,8.28,Elite,9492.46,Low,0.0,Elite,75.0
+prometheus/prometheus,0.62,Medium,26.52,High,789.63,Low,0.013,Elite,61.3
