@@ -249,9 +249,9 @@ def main():
             fetch_issues(repo, conn, limit=200)
 
             # Rate limit safety
-            rate = g.get_rate_limit()
-            print(f"  Rate limit remaining: {rate.core.remaining}")
-            if rate.core.remaining < 100:
+            remaining, limit = g.rate_limiting
+            print(f"  Rate limit remaining: {remaining}")
+            if remaining < 100:
                 print("  Rate limit low — sleeping 60s")
                 time.sleep(60)
 
