@@ -77,25 +77,45 @@ Personal repos (6) = insufficient data (no PR workflow).
 
 ## Dashboard Features
 
+## Dashboard Screenshots
 **Page 1 — Leaderboard**
 - Health score rankings
 - DORA band matrix (Elite/High/Medium/Low color-coded)
 - KPI cards (repos analyzed, avg health, elite repos)
+### Leaderboard
+![Leaderboard](assets/01_leaderboard.png)
 
 **Page 2 — DORA Deep Dive**
 - 4 metric charts: deployment frequency, lead time, MTTR, CFR
 - Reference thresholds (Elite/High bands) as dashed lines
 - Per-repo breakdown
 
+### DORA Deep Dive
+![Deep Dive](assets/02_deep_dive.png)
+
 **Page 3 — Radar + Comparison**
 - Repo selection dropdown
 - Radar chart (4D DORA profile)
 - Insufficient data flagging
 
+
+### Radar Profile
+![Radar](assets/03_radar.png)
+
 **Filters & References**
 - Multi-select repo filter
 - DORA band thresholds sidebar
 - Category tagging (your repos vs public orgs)
-```
+
+### Insufficient Data
+![Insufficient Data](assets/04_insufficient_data.png)
+
+
+
+
+
+
+
+
 
 ---
