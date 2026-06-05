@@ -100,7 +100,7 @@ Personal repos (6) = insufficient data (no PR workflow).
 
 
 ### Radar Profile
-![Radar](assets/03_radar.png)
+![Radar](assets/04_radar.png)
 
 **Filters & References**
 - Multi-select repo filter
@@ -108,7 +108,7 @@ Personal repos (6) = insufficient data (no PR workflow).
 - Category tagging (your repos vs public orgs)
 
 ### Insufficient Data
-![Insufficient Data](assets/04_insufficient_data.png)
+![Insufficient Data](assets/03_band_matrix.png)
 
 
 
